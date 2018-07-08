@@ -1,4 +1,4 @@
-SupplyLocationRepository.class
-SupplyLocationServiceApplication.class
-SupplyLocationRestController.class
-SupplyLocation.class
+domain/SupplyLocationRepository.class
+domain/SupplyLocation.class
+domain/SupplyLocationServiceApplication.class
+domain/SupplyLocationRestController.class
